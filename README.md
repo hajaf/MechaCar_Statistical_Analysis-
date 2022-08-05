@@ -6,9 +6,13 @@
 
 •	The R squared is 0.7149
 
+![image](https://user-images.githubusercontent.com/103130997/182990608-0f3eb588-1cba-4572-8a20-a6df16d89e3d.png)
+![image](https://user-images.githubusercontent.com/103130997/182990662-3baccaa9-68ba-4f09-921f-82d1f9a26900.png)
 
 ## Summary Statistics on Suspension Coils
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Within Lot 1 and 2 we see that to be true as both variances are less that 10 however in lot 3 we see that the variance is 170 which means the spring may not need to be used.
+![image](https://user-images.githubusercontent.com/103130997/182990410-610f8e06-b39a-4523-9e04-0ba416680643.png)
+![image](https://user-images.githubusercontent.com/103130997/182990448-20bf65d9-993c-46df-b9c4-3f8b37ce4028.png)
 
 Div 3
 ## T-Tests on Suspension Coils
